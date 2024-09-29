@@ -1,6 +1,7 @@
 {
-    "require": {
-      "php": "^7.4"
-    }
+  "name": "hospital-sistema-chat",
+  "description": "Descrição do seu aplicativo",
+  "require": {
+      "php": "^7.4 || ^8.0"
   }
-  
+}

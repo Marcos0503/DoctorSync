@@ -1,3 +1,3 @@
 <?php
-echo "Olá, Heroku!";
+echo "Bem-vindo ao meu aplicativo PHP!";
 ?>
