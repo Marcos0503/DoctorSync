@@ -1,6 +1,6 @@
 <?php
 // URL de conexão vinda do Heroku
-$dbUrl = "postgres://u6lm5jg8b9ahf:p52ccce63eb68ae09437539ed2ffcb5e636214ef5c99f8037b4c89b035fc403ce@c8m0261h0c7idk.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com:5432/d94cr7oamtoh3";
+$dbUrl = "postgres://u1nb6mhl0m090a:pb977b537f4bcfabe1c8ae34101f55b12a544658af1291208cb7d1448ecd49c04@cfls9h51f4i86c.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com:5432/dch9n98e2j25hm";
 
 // Parse da URL
 $db = parse_url($dbUrl);
